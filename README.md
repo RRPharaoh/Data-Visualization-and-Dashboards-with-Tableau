@@ -8,8 +8,11 @@ My goal with this project is to find a correlation between player stats, wages a
 I started by analyzing plyer data on a geographic basis, determining where some of the best players in the world came from. I then look at key metrics such as age, overall stats, teams they played for as well as wages. I then sorted teams by location, value, and wages. I tried to find a correlation between wages and players statistics.  
 
 ### Visualization
-Once I was able to stablish a baseline, and figure out some connections and correlations, I put together some key visualizations that would highlight some of the insights that I was able to determine.
+Once I was able to stablish a baseline, and figure out some connections and correlations, I put together some key visualizations within tableau that would highlight some of the insights that I was able to determine.
 
+Here is a link to the tableau presentation: https://public.tableau.com/views/Visualization_project_finale/Presentation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+I will also provide a PDF version within the project folder.
 ## Results
 The option I chose was the FIFA 18 Game dataset. My initial exploration started with the nationality of each player in the dataset. The first data set I made was heat map for each nation in the data set group by the sum of players from nation. I also made a geographic map (world) map to highlight all the different nations represented in the dataset. I initially had one geographic heat map, but I decided to separate them into two to better visualize the diversity of the players. 
 
