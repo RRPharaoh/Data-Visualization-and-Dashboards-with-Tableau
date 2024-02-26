@@ -1,4 +1,4 @@
-# Final-Project-Tableau
+# Project-Tableau
 
 ## Project/Goals
 My goal with this project is to find a correlation between player stats, wages and the teams that they play for utilizing the FIFA 18 game data.
